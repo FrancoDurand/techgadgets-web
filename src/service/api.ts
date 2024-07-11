@@ -1,5 +1,5 @@
 class ApiService {
-    static URL: string = 'http://localhost:3000';
+    static URL: string = 'https://techgadgets-backend-production.up.railway.app';
 }
 
 export { ApiService };
