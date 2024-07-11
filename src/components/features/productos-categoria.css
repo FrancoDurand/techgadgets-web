@@ -1,0 +1,15 @@
+.descripcion {
+    margin-top: -50px;
+}
+
+.descripcion h1 {
+    font-weight: bold;
+    margin-bottom: 40px;
+    font-size: 100px;
+}
+
+.descripcion p {
+    font-style: italic;
+    font-weight: 200;
+    font-size: 30px;
+}

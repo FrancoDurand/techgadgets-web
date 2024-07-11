@@ -1,0 +1,50 @@
+.div_producto {
+    display: flex;
+}
+
+.div_producto img {
+    width: 50%;
+    border-radius: 10px;
+}
+
+.div_producto_detalle {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 5%;
+    gap: 10%;
+}
+
+.div_producto_detalle h1 {
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.div_producto_detalle h2 {
+    font-weight: 300;
+    font-size: 50px;
+    text-align: start;
+}
+
+.div_producto_botones {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.div_producto_cantidad {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.div_producto_cantidad button {
+    padding: 5px 15px;
+}
+
+.div_producto_cantidad label {
+    user-select: none;
+    font-weight: bold;
+    padding: 5px 18px;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+}
